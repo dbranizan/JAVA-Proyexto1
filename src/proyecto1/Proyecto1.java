@@ -5,8 +5,8 @@ public class Proyecto1 {
 
     public static void main(String[] args) {
         
-        Scanner teclado=new Scanner(System.in);
-        
+        Scanner teclado=new Scanner(System.in); 
+     
         String nombre;
         String apellido;
         int edad;
